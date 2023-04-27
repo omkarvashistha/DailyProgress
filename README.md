@@ -3,3 +3,8 @@ This is a web application that helps you improve and make progress by tracking y
 
 # URL
 https://venerable-selkie-0ea268.netlify.app
+
+# Technologies Used
+1 - ReactJS 
+2 - ExpressJs/NodeJs
+3 - MongoDB
