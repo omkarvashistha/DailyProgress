@@ -9,7 +9,7 @@ This is a web application that helps you improve and make progress by tracking y
 • Beautiful and responsive User Interface.  
 
 # URL
-https://venerable-selkie-0ea268.netlify.app
+https://daily-progress-proj.netlify.app/
 
 # Technologies Used
 1 - ReactJS   
