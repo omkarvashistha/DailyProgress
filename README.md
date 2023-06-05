@@ -1,5 +1,5 @@
 # DailyProgress
-This is a web application that helps you improve and make progress by tracking your goals and calculating you progress.
+It is a web application that helps you improve and make progress by tracking your goals and calculating you progress.
 
 # Features
 • You can create daily journals.  
